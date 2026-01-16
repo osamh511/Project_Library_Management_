@@ -1,0 +1,25 @@
+=================================
+2026-01-14 00:05:14Z
+Conversion from string "" to type 'Integer' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Library_Management_.frmBooks.btnDelete_Click(Object sender, EventArgs e) in D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Library_Management_\frmBooks.vb:line 69
+=================================
+2026-01-14 00:07:34Z
+Conversion from string "" to type 'Integer' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Library_Management_.frmBooks.btnDelete_Click(Object sender, EventArgs e) in D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Library_Management_\frmBooks.vb:line 69
+=================================
+2026-01-14 00:07:43Z
+Conversion from string "" to type 'Integer' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Library_Management_.frmBooks.btnDelete_Click(Object sender, EventArgs e) in D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Library_Management_\frmBooks.vb:line 69
+=================================
+2026-01-14 00:08:07Z
+Conversion from string "" to type 'Integer' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Library_Management_.frmBooks.btnDelete_Click(Object sender, EventArgs e) in D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Library_Management_\frmBooks.vb:line 69
+=================================
+2026-01-14 00:09:11Z
+Conversion from string "" to type 'Integer' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at Library_Management_.frmBooks.btnUpdate_Click(Object sender, EventArgs e) in D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Library_Management_\frmBooks.vb:line 52
